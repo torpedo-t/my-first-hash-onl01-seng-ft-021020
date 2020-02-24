@@ -1,3 +1,4 @@
+#using hashes
 def my_hash
   my_hash = {"age" => 27}
 end
